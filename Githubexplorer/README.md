@@ -13,6 +13,6 @@ git clone https://github.com/Matheusmottaa/reactJs/Githubexplorer
 
 cd githubexplorer
 
-yarn add 
+yarn
 
 yarn dev 
