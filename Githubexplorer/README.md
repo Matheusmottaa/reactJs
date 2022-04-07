@@ -9,7 +9,7 @@ A simple application that consumes Github API.
 
 ## How to install 
 
-git clone https://github.com/Matheusmottaa/reactJs/githubexplorer
+git clone https://github.com/Matheusmottaa/reactJs/Githubexplorer
 
 cd githubexplorer
 
