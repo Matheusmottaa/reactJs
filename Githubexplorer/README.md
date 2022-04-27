@@ -9,10 +9,10 @@ A simple application that consumes Github API.
 
 ## How to install 
 
-git clone https://github.com/Matheusmottaa/reactJs/Githubexplorer
+`git clone https://github.com/Matheusmottaa/reactJs/Githubexplorer `
 
-cd githubexplorer
+`cd githubexplorer `
 
-yarn
+`yarn`
 
-yarn dev 
+``yarn dev``
